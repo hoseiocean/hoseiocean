@@ -2,7 +2,7 @@
 - 👀 I’m interested in mobile app development
 - 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on Apple ecosystem
-- 📫 How to reach me : hi@late25.com
+- 📫 How to reach me : thomas.heinis@ik.me
 
 <!---
 gemini-crocket/gemini-crocket is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
